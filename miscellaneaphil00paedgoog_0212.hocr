@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./miscellaneaphil00paedgoog_0212.png"; bbox 0 0 2914 4902; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 525 1755 1110 1840">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 525 1755 1110 1840">
+     <span class='ocr_line' id='line_1_1' title="bbox 525 1755 1110 1840; baseline 0.027 -15"><span class='ocrx_word' id='word_1_1' title='bbox 525 1755 755 1830; x_wconf 69' lang='lat' dir='ltr'><strong>BmffloTssN</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 779 1770 827 1832; x_wconf 80' lang='lat' dir='ltr'><strong>EN</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 854 1767 1110 1840; x_wconf 75' lang='lat' dir='ltr'><strong>VERSLAGEN</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 656 2175 983 2283">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 656 2175 983 2283">
+     <span class='ocr_line' id='line_1_2' title="bbox 656 2175 983 2283; baseline 0.049 -16"><span class='ocrx_word' id='word_1_4' title='bbox 656 2175 983 2283; x_wconf 73' lang='lat' dir='ltr'><strong>GYMNASOEN</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 306 2607 1233 2713">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 306 2607 1233 2713">
+     <span class='ocr_line' id='line_1_3' title="bbox 306 2607 1233 2713; baseline 0.012 -14"><span class='ocrx_word' id='word_1_5' title='bbox 306 2627 355 2709; x_wconf 90' lang='lat' dir='ltr'>G</span> <span class='ocrx_word' id='word_1_6' title='bbox 380 2623 433 2701; x_wconf 87' lang='lat' dir='ltr'>Y</span> <span class='ocrx_word' id='word_1_7' title='bbox 454 2607 810 2700; x_wconf 71' lang='lat' dir='ltr'><strong>MNASIAAL</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 847 2621 1233 2713; x_wconf 82' lang='lat' dir='ltr'>ONDERWIJS.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1462 4902">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1462 4902">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1462 4902; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1462 4902; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

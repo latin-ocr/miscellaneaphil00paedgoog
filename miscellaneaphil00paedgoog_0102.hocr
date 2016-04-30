@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./miscellaneaphil00paedgoog_0102.png"; bbox 0 0 2772 4902; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 442 1643 839 1756">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 442 1643 839 1756">
+     <span class='ocr_line' id='line_1_1' title="bbox 442 1643 839 1756; baseline 0.008 -45"><span class='ocrx_word' id='word_1_1' title='bbox 442 1643 839 1756; x_wconf 61' lang='lat' dir='ltr'><strong>communio</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 179 2106 1083 2198">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 179 2106 1083 2198">
+     <span class='ocr_line' id='line_1_2' title="bbox 179 2106 1083 2198; baseline -0.004 0"><span class='ocrx_word' id='word_1_2' title='bbox 179 2110 350 2198; x_wconf 72' lang='lat' dir='ltr'><strong>Gonu.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 385 2106 685 2192; x_wconf 72' lang='lat' dir='ltr'>ssfflunno</span> <span class='ocrx_word' id='word_1_4' title='bbox 713 2107 1083 2194; x_wconf 63' lang='lat' dir='ltr'><strong>Poufflswolffl.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 453 2538 840 2600">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 453 2538 840 2600">
+     <span class='ocr_line' id='line_1_3' title="bbox 453 2538 840 2600; baseline 0.005 -4"><span class='ocrx_word' id='word_1_5' title='bbox 453 2538 480 2596; x_wconf 81' lang='lat' dir='ltr'><strong>J.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 518 2538 549 2595; x_wconf 85' lang='lat' dir='ltr'><strong>G.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 588 2539 840 2600; x_wconf 79' lang='lat' dir='ltr'><strong>HULLEMAN.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1390 4902">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1390 4902">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1390 4902; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1390 4902; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
